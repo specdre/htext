@@ -1,2 +1,1 @@
-# htext
-Hypertext Extractor x Transformer
+# htext - Hypertext Extractor x Transformer
